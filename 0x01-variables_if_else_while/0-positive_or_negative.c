@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * Main - A C program that prints the number and describe if it's +ve -ve or0
- * return: 0
+ * main - a c program that prints the number and describe if it's +ve -ve or 0
+ * Return: 0
  */
 int main(void)
 {
