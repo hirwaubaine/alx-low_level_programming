@@ -3,8 +3,7 @@
 #include "lists.h"
 
 /**
- * insert_nodeint_at_index - adds a new node in a linked list,
- * at a given position
+ * insert_nodeint_at_index - adds new node at a given position
  * @head: pointer to the very first node of the list
  * @idx: index of the list where the new node should be added
  * @n: integer to be used for adding new node
